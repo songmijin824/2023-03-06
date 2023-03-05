@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+
+
+:root {
+  --main-color: #000; /*  var(--main-color) */
+  --color_1: #fff; /*  var(--color_1) */
+}
